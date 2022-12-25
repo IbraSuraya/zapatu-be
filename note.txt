@@ -47,16 +47,6 @@ Selain DB
 - love - Frontend
 - cart - API 
 - Login/SigIn - Laravel
-
-
-
-
-
-
-
-
-
-
 =============================================================
 Mengenai git
 urutan fork
