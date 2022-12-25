@@ -1,0 +1,7 @@
+https://github.com/yajra/laravel-datatables
+https://github.com/pematon/adminer-custom
+https://jetstream.laravel.com/2.x/installation.html
+https://laravel.com/docs/8.x
+http://adminer.test/
+http://zapatu-be.test/
+file:///C:/laragon/www/zapatu-be/
