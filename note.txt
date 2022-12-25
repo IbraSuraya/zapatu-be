@@ -6,6 +6,8 @@ http://adminer.test/
 http://zapatu-be.test/
 file:///C:/laragon/www/zapatu-be/
 
+https://gist.github.com/galpratama/36ca7e903a73bc46acaa6fb810b7cd13
+
 =============================================================
 Analisis Database
 
