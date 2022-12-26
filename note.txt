@@ -8,6 +8,10 @@ file:///C:/laragon/www/zapatu-be/
 
 https://gist.github.com/galpratama/36ca7e903a73bc46acaa6fb810b7cd13
 
+https://joinbwa.com/fldeploy 
+http://bit.ly/BWASTORE-DEPLOY
+=============================================================
+- 7.1 Mengamankan Aplikasi Laravel
 =============================================================
 Analisis Database
 
